@@ -36,8 +36,8 @@ Ensure you have **Python 3.8+** and **pip** installed on your system.
 
 ### 📌 **Clone the Repository**  
 ```bash  
-git clone https://github.com/YOUR_GITHUB_USERNAME/gemini-code-reviewer.git  
-cd gemini-code-reviewer  
+git clone https://github.com/yaswanthkumaryallapu/ai-code-reviewer.git  
+cd ai-code-reviewer  
 ```  
 
 ### 📌 **Install Dependencies**  
@@ -46,8 +46,8 @@ pip install -r requirements.txt
 ```  
 
 ### 📌 **Set Up API Key**  
-Create a `.streamlit/secrets.toml` file and add your Google Gemini API Key:  
-```toml  
+Create aGoogle Gemini API Key:  
+```
 GEMINI_API_KEY = "your_api_key_here"  
 ```  
 
@@ -79,9 +79,6 @@ This project is open-source under the **MIT License**.
 
 ```plaintext  
 gemini-code-reviewer/  
-│  
-├── .streamlit/  
-│   └── secrets.toml          # API key configuration  
 │  
 ├── app.py                    # Main Streamlit application  
 ├── requirements.txt          # Python dependencies  
