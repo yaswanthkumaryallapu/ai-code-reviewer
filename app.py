@@ -4,7 +4,7 @@ import google.generativeai as genai
 import time
 
 # Set Gemini API Key (Replace with your actual key)
-GEMINI_API_KEY = "AIzaSyAhz0YH_o4gaSSkC0L1Szib2N59tPzBUsE"
+GEMINI_API_KEY = "API_KEY"
 genai.configure(api_key=GEMINI_API_KEY)
 
 # Function to review code using Gemini AI
