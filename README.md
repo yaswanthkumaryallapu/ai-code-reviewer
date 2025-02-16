@@ -95,4 +95,4 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 ---
 
 ### **Project Affiliation**  
-This project was developed as part of the **Infosys SpringBoard internship program**.
+This project was developed as part of the **Innomatics Research Lab internship program**.
